@@ -1,4 +1,4 @@
-# pre-commit ESLint Hook
+# pre-commit ES6 Import Statement Reorder Hook
 
 This is a hook to allow [pre-commit](http://pre-commit.com) to reorder ES6 JavaScript import statements.
 
