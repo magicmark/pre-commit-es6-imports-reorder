@@ -1,0 +1,28 @@
+{
+    "name": "pre-commit-es6-imports-reorder",
+    "version": "1.0.0",
+    "description": "pre-commit hook to reorder ES6 imports",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "js-reorder-es6-imports": "./assets/js/reorder-es6-imports.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/magicmark/pre-commit-es6-imports-reorder.git"
+    },
+    "keywords": [
+        "pre-commit",
+        "es6"
+    ],
+    "author": "Mark Larah <mark@larah.me>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/magicmark/pre-commit-es6-imports-reorder/issues"
+    },
+    "homepage": "https://github.com/magicmark/pre-commit-es6-imports-reorder#readme",
+    "dependencies": {
+        "import-sort": "^0.5.0"
+    }
+}

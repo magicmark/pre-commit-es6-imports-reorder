@@ -1,0 +1,6 @@
+-   id: reorder-es6-imports
+    name: Reorder ES6 Imports
+    description: This hook reorders ES6 imports.
+    entry: js-reorder-es6-imports
+    language: node
+    files: \.js$
