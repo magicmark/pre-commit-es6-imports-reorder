@@ -23,6 +23,6 @@
     },
     "homepage": "https://github.com/magicmark/pre-commit-es6-imports-reorder#readme",
     "dependencies": {
-        "import-sort": "^0.5.0"
+        "import-sort": "^3.3.0"
     }
 }
