@@ -1,5 +1,7 @@
 # pre-commit ES6 Import Statement Reorder Hook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicmark/pre-commit-es6-imports-reorder.svg)](https://greenkeeper.io/)
+
 This is a hook to allow [pre-commit](http://pre-commit.com) to reorder ES6 JavaScript import statements.
 
 ### Installing
